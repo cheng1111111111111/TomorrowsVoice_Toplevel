@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace WebApplication1.Models
 {
-    public class Member
+    public class Singer
     {
 
         public int ID { get; set; }
